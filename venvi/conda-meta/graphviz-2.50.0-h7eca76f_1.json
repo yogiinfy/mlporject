@@ -1,0 +1,1121 @@
+{
+  "build": "h7eca76f_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cairo >=1.16.0,<2.0a0",
+    "expat >=2.4.9,<3.0a0",
+    "fontconfig >=2.14.1,<3.0a0",
+    "fonts-conda-ecosystem",
+    "freetype >=2.10.4,<3.0a0",
+    "getopt-win32 >=0.1,<0.2.0a0",
+    "glib >=2.69.1,<3.0a0",
+    "gts >=0.7.6,<0.8.0a0",
+    "libgd >=2.3.3,<2.4.0a0",
+    "libwebp",
+    "libwebp-base >=1.2.4,<2.0a0",
+    "pango >=1.50.7,<2.0a0",
+    "poppler",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\y1998\\anaconda3\\pkgs\\graphviz-2.50.0-h7eca76f_1",
+  "files": [
+    "Library/bin/acyclic.exe",
+    "Library/bin/bcomps.exe",
+    "Library/bin/ccomps.exe",
+    "Library/bin/cdt.dll",
+    "Library/bin/cgraph.dll",
+    "Library/bin/circo.exe",
+    "Library/bin/config6",
+    "Library/bin/dijkstra.exe",
+    "Library/bin/dot.exe",
+    "Library/bin/fdp.exe",
+    "Library/bin/gc.exe",
+    "Library/bin/gml2gv.exe",
+    "Library/bin/graphml2gv.exe",
+    "Library/bin/gv2gml.exe",
+    "Library/bin/gvc.dll",
+    "Library/bin/gvcolor.exe",
+    "Library/bin/gvgen.exe",
+    "Library/bin/gvpack.exe",
+    "Library/bin/gvplugin_core.dll",
+    "Library/bin/gvplugin_dot_layout.dll",
+    "Library/bin/gvplugin_gd.dll",
+    "Library/bin/gvplugin_gdiplus.dll",
+    "Library/bin/gvplugin_neato_layout.dll",
+    "Library/bin/gvplugin_pango.dll",
+    "Library/bin/gvpr.exe",
+    "Library/bin/gxl2gv.exe",
+    "Library/bin/mm2gv.exe",
+    "Library/bin/neato.exe",
+    "Library/bin/nop.exe",
+    "Library/bin/osage.exe",
+    "Library/bin/patchwork.exe",
+    "Library/bin/pathplan.dll",
+    "Library/bin/sccmap.exe",
+    "Library/bin/sfdp.exe",
+    "Library/bin/tred.exe",
+    "Library/bin/twopi.exe",
+    "Library/bin/unflatten.exe",
+    "Library/bin/xdot.dll",
+    "Library/include/graphviz/arith.h",
+    "Library/include/graphviz/cdt.h",
+    "Library/include/graphviz/cgraph.h",
+    "Library/include/graphviz/color.h",
+    "Library/include/graphviz/geom.h",
+    "Library/include/graphviz/graphviz_version.h",
+    "Library/include/graphviz/gvc.h",
+    "Library/include/graphviz/gvcext.h",
+    "Library/include/graphviz/gvcjob.h",
+    "Library/include/graphviz/gvcommon.h",
+    "Library/include/graphviz/gvconfig.h",
+    "Library/include/graphviz/gvplugin.h",
+    "Library/include/graphviz/gvplugin_device.h",
+    "Library/include/graphviz/gvplugin_layout.h",
+    "Library/include/graphviz/gvplugin_loadimage.h",
+    "Library/include/graphviz/gvplugin_render.h",
+    "Library/include/graphviz/gvplugin_textlayout.h",
+    "Library/include/graphviz/pack.h",
+    "Library/include/graphviz/pathgeom.h",
+    "Library/include/graphviz/pathplan.h",
+    "Library/include/graphviz/textspan.h",
+    "Library/include/graphviz/types.h",
+    "Library/include/graphviz/usershape.h",
+    "Library/include/graphviz/xdot.h",
+    "Library/lib/cdt.lib",
+    "Library/lib/cgraph.lib",
+    "Library/lib/gvc.lib",
+    "Library/lib/gvplugin_core.lib",
+    "Library/lib/gvplugin_dot_layout.lib",
+    "Library/lib/gvplugin_gd.lib",
+    "Library/lib/gvplugin_gdiplus.lib",
+    "Library/lib/gvplugin_neato_layout.lib",
+    "Library/lib/gvplugin_pango.lib",
+    "Library/lib/pathplan.lib",
+    "Library/lib/pkgconfig/libcdt.pc",
+    "Library/lib/pkgconfig/libcgraph.pc",
+    "Library/lib/pkgconfig/libgvc.pc",
+    "Library/lib/pkgconfig/libgvpr.pc",
+    "Library/lib/pkgconfig/liblab_gamut.pc",
+    "Library/lib/pkgconfig/libpathplan.pc",
+    "Library/lib/pkgconfig/libxdot.pc",
+    "Library/lib/xdot.lib",
+    "Library/share/man/man1/acyclic.1.gz",
+    "Library/share/man/man1/bcomps.1.gz",
+    "Library/share/man/man1/ccomps.1.gz",
+    "Library/share/man/man1/dijkstra.1.gz",
+    "Library/share/man/man1/dot.1.gz",
+    "Library/share/man/man1/gc.1.gz",
+    "Library/share/man/man1/gml2gv.1.gz",
+    "Library/share/man/man1/graphml2gv.1.gz",
+    "Library/share/man/man1/gvcolor.1.gz",
+    "Library/share/man/man1/gvgen.1.gz",
+    "Library/share/man/man1/gvpack.1.gz",
+    "Library/share/man/man1/gvpr.1.gz",
+    "Library/share/man/man1/gxl2gv.1.gz",
+    "Library/share/man/man1/mm2gv.1.gz",
+    "Library/share/man/man1/nop.1.gz",
+    "Library/share/man/man1/osage.1.gz",
+    "Library/share/man/man1/patchwork.1.gz",
+    "Library/share/man/man1/sccmap.1.gz",
+    "Library/share/man/man1/tred.1.gz",
+    "Library/share/man/man1/unflatten.1.gz",
+    "Library/share/man/man3/cdt.3.gz",
+    "Library/share/man/man3/cgraph.3.gz",
+    "Library/share/man/man3/gvc.3.gz",
+    "Library/share/man/man3/pack.3.gz",
+    "Library/share/man/man3/pathplan.3.gz",
+    "Library/share/man/man3/xdot.3.gz",
+    "Scripts/acyclic.bat",
+    "Scripts/bcomps.bat",
+    "Scripts/ccomps.bat",
+    "Scripts/circo.bat",
+    "Scripts/dijkstra.bat",
+    "Scripts/dot.bat",
+    "Scripts/fdp.bat",
+    "Scripts/gc.bat",
+    "Scripts/gml2gv.bat",
+    "Scripts/graphml2gv.bat",
+    "Scripts/gv2gml.bat",
+    "Scripts/gvcolor.bat",
+    "Scripts/gvgen.bat",
+    "Scripts/gvpack.bat",
+    "Scripts/gvpr.bat",
+    "Scripts/gxl2gv.bat",
+    "Scripts/mm2gv.bat",
+    "Scripts/neato.bat",
+    "Scripts/nop.bat",
+    "Scripts/osage.bat",
+    "Scripts/patchwork.bat",
+    "Scripts/sccmap.bat",
+    "Scripts/sfdp.bat",
+    "Scripts/tred.bat",
+    "Scripts/twopi.bat",
+    "Scripts/unflatten.bat",
+    ".nonadmin"
+  ],
+  "fn": "graphviz-2.50.0-h7eca76f_1.conda",
+  "legacy_bz2_md5": "14d799d52544020f645b709217369fdb",
+  "license": "EPL-1.0",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\y1998\\anaconda3\\pkgs\\graphviz-2.50.0-h7eca76f_1",
+    "type": 1
+  },
+  "md5": "2dc4d58bc92ab2415dc0c64ea7dde0a4",
+  "name": "graphviz",
+  "package_tarball_full_path": "C:\\Users\\y1998\\anaconda3\\pkgs\\graphviz-2.50.0-h7eca76f_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/acyclic.exe",
+        "path_type": "hardlink",
+        "sha256": "3a8c5a662faa65856b17ca09605184a9436381749fa7f4e959c23f2902c02907",
+        "sha256_in_prefix": "3a8c5a662faa65856b17ca09605184a9436381749fa7f4e959c23f2902c02907",
+        "size_in_bytes": 12288
+      },
+      {
+        "_path": "Library/bin/bcomps.exe",
+        "path_type": "hardlink",
+        "sha256": "e2996ab1a0661c63185997940022c35b2d45a4e06efaca1c3a3c2d18a5837637",
+        "sha256_in_prefix": "e2996ab1a0661c63185997940022c35b2d45a4e06efaca1c3a3c2d18a5837637",
+        "size_in_bytes": 16384
+      },
+      {
+        "_path": "Library/bin/ccomps.exe",
+        "path_type": "hardlink",
+        "sha256": "df7996f77c35d3d51f2ce0e67f4d48d78580636f8c6691a29fbd3ec87b533600",
+        "sha256_in_prefix": "df7996f77c35d3d51f2ce0e67f4d48d78580636f8c6691a29fbd3ec87b533600",
+        "size_in_bytes": 22528
+      },
+      {
+        "_path": "Library/bin/cdt.dll",
+        "path_type": "hardlink",
+        "sha256": "627466cb0ae45095102d38ea04df8b6ebbacc235e33380c363dcebc9bcd04a3a",
+        "sha256_in_prefix": "627466cb0ae45095102d38ea04df8b6ebbacc235e33380c363dcebc9bcd04a3a",
+        "size_in_bytes": 24064
+      },
+      {
+        "_path": "Library/bin/cgraph.dll",
+        "path_type": "hardlink",
+        "sha256": "7c9518cc355e4640adf6d23c9a880489b51b46717b275479f2267a98ac55f4af",
+        "sha256_in_prefix": "7c9518cc355e4640adf6d23c9a880489b51b46717b275479f2267a98ac55f4af",
+        "size_in_bytes": 72704
+      },
+      {
+        "_path": "Library/bin/circo.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/config6",
+        "path_type": "hardlink",
+        "sha256": "eb9ac20a5c8d4572723d53fb2945864ea280ec94081f3c3dbc7c4e82ae11a3c9",
+        "sha256_in_prefix": "eb9ac20a5c8d4572723d53fb2945864ea280ec94081f3c3dbc7c4e82ae11a3c9",
+        "size_in_bytes": 3211
+      },
+      {
+        "_path": "Library/bin/dijkstra.exe",
+        "path_type": "hardlink",
+        "sha256": "95daecf9f9348330a5131fa23c314b85cfd817eed7b0d50dc5c79268ee98c9a2",
+        "sha256_in_prefix": "95daecf9f9348330a5131fa23c314b85cfd817eed7b0d50dc5c79268ee98c9a2",
+        "size_in_bytes": 16896
+      },
+      {
+        "_path": "Library/bin/dot.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/fdp.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/gc.exe",
+        "path_type": "hardlink",
+        "sha256": "5ebada2c86d206ad5284a3bd36a39694849ce6be430df53eb260f18b1cf4e55e",
+        "sha256_in_prefix": "5ebada2c86d206ad5284a3bd36a39694849ce6be430df53eb260f18b1cf4e55e",
+        "size_in_bytes": 16384
+      },
+      {
+        "_path": "Library/bin/gml2gv.exe",
+        "path_type": "hardlink",
+        "sha256": "db0d42506a20d08f66441ad458c7dd34c46d3a1ad72059e058a9d49b1660b97d",
+        "sha256_in_prefix": "db0d42506a20d08f66441ad458c7dd34c46d3a1ad72059e058a9d49b1660b97d",
+        "size_in_bytes": 34304
+      },
+      {
+        "_path": "Library/bin/graphml2gv.exe",
+        "path_type": "hardlink",
+        "sha256": "c653ca2f56a139aca992836e6220ebc2d9688eaaf3b7cce376705c7b30dba08d",
+        "sha256_in_prefix": "c653ca2f56a139aca992836e6220ebc2d9688eaaf3b7cce376705c7b30dba08d",
+        "size_in_bytes": 19968
+      },
+      {
+        "_path": "Library/bin/gv2gml.exe",
+        "path_type": "hardlink",
+        "sha256": "b74f57b1f4c86df46a71a73bda0ee31f7ae7c459ec9c27fdb7c3496ba5b45db9",
+        "sha256_in_prefix": "b74f57b1f4c86df46a71a73bda0ee31f7ae7c459ec9c27fdb7c3496ba5b45db9",
+        "size_in_bytes": 22016
+      },
+      {
+        "_path": "Library/bin/gvc.dll",
+        "path_type": "hardlink",
+        "sha256": "baada9d319c7a4beafd4c1287b2e6813b6b5aa021395e84e88b284e4837461be",
+        "sha256_in_prefix": "baada9d319c7a4beafd4c1287b2e6813b6b5aa021395e84e88b284e4837461be",
+        "size_in_bytes": 540160
+      },
+      {
+        "_path": "Library/bin/gvcolor.exe",
+        "path_type": "hardlink",
+        "sha256": "0527f8775b2eb0a8a17c129dd7bc258cdbf5189ddd99d12c40e63e6e82e66e54",
+        "sha256_in_prefix": "0527f8775b2eb0a8a17c129dd7bc258cdbf5189ddd99d12c40e63e6e82e66e54",
+        "size_in_bytes": 36352
+      },
+      {
+        "_path": "Library/bin/gvgen.exe",
+        "path_type": "hardlink",
+        "sha256": "a535155d9d4efd0c954f4801872573da18806cf7def50e90f64cb2f0d36dc29b",
+        "sha256_in_prefix": "a535155d9d4efd0c954f4801872573da18806cf7def50e90f64cb2f0d36dc29b",
+        "size_in_bytes": 24064
+      },
+      {
+        "_path": "Library/bin/gvpack.exe",
+        "path_type": "hardlink",
+        "sha256": "6ab277e8ff6f2c20805792a5345e40256561f4c812519f0e74db7abee6c0f607",
+        "sha256_in_prefix": "6ab277e8ff6f2c20805792a5345e40256561f4c812519f0e74db7abee6c0f607",
+        "size_in_bytes": 145920
+      },
+      {
+        "_path": "Library/bin/gvplugin_core.dll",
+        "path_type": "hardlink",
+        "sha256": "a6020b3db42d5396acb528d8c277527bfa1237ef00c0ec409fca9f1c89046579",
+        "sha256_in_prefix": "a6020b3db42d5396acb528d8c277527bfa1237ef00c0ec409fca9f1c89046579",
+        "size_in_bytes": 114688
+      },
+      {
+        "_path": "Library/bin/gvplugin_dot_layout.dll",
+        "path_type": "hardlink",
+        "sha256": "a5e307d25c244265e0dc1dcad3c20bbe3f9647472011bbd06a55030d0f218a45",
+        "sha256_in_prefix": "a5e307d25c244265e0dc1dcad3c20bbe3f9647472011bbd06a55030d0f218a45",
+        "size_in_bytes": 154624
+      },
+      {
+        "_path": "Library/bin/gvplugin_gd.dll",
+        "path_type": "hardlink",
+        "sha256": "7ed38afdfe1ba33fd8cc5c2b276b838f45f76289ecec589108391b132eff2aef",
+        "sha256_in_prefix": "7ed38afdfe1ba33fd8cc5c2b276b838f45f76289ecec589108391b132eff2aef",
+        "size_in_bytes": 20480
+      },
+      {
+        "_path": "Library/bin/gvplugin_gdiplus.dll",
+        "path_type": "hardlink",
+        "sha256": "acb7179299e9e796e78957210c156cfd003e50f509af9136c8b582c9253f380b",
+        "sha256_in_prefix": "acb7179299e9e796e78957210c156cfd003e50f509af9136c8b582c9253f380b",
+        "size_in_bytes": 32768
+      },
+      {
+        "_path": "Library/bin/gvplugin_neato_layout.dll",
+        "path_type": "hardlink",
+        "sha256": "7c470e5fa6c0e9cef17d520d8fa9d4b452eb92031d2f58f34c3f35de0b2270a7",
+        "sha256_in_prefix": "7c470e5fa6c0e9cef17d520d8fa9d4b452eb92031d2f58f34c3f35de0b2270a7",
+        "size_in_bytes": 405504
+      },
+      {
+        "_path": "Library/bin/gvplugin_pango.dll",
+        "path_type": "hardlink",
+        "sha256": "6319dab64dc125db1337a638b9f94c1a1d455713b244c187db6a76462b0ea573",
+        "sha256_in_prefix": "6319dab64dc125db1337a638b9f94c1a1d455713b244c187db6a76462b0ea573",
+        "size_in_bytes": 35328
+      },
+      {
+        "_path": "Library/bin/gvpr.exe",
+        "path_type": "hardlink",
+        "sha256": "cd79f56e62c25ac28b1e6070e9670387fb98348fb033d9c5c503b80d8ca6d8ae",
+        "sha256_in_prefix": "cd79f56e62c25ac28b1e6070e9670387fb98348fb033d9c5c503b80d8ca6d8ae",
+        "size_in_bytes": 323072
+      },
+      {
+        "_path": "Library/bin/gxl2gv.exe",
+        "path_type": "hardlink",
+        "sha256": "b70a1aba7d33938a64352f89f52893dfe9b07ad84a3d7e8e4dfd6d270b3701b4",
+        "sha256_in_prefix": "b70a1aba7d33938a64352f89f52893dfe9b07ad84a3d7e8e4dfd6d270b3701b4",
+        "size_in_bytes": 35328
+      },
+      {
+        "_path": "Library/bin/mm2gv.exe",
+        "path_type": "hardlink",
+        "sha256": "b9a6cd6c59ab425ad82eda7f2c2c07466b3fc7bc187b27a6123d230b1cf1891d",
+        "sha256_in_prefix": "b9a6cd6c59ab425ad82eda7f2c2c07466b3fc7bc187b27a6123d230b1cf1891d",
+        "size_in_bytes": 32256
+      },
+      {
+        "_path": "Library/bin/neato.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/nop.exe",
+        "path_type": "hardlink",
+        "sha256": "c7fab8becfab9e294dc695e34082a8fcc0824bf2c33131ce1451546767441c92",
+        "sha256_in_prefix": "c7fab8becfab9e294dc695e34082a8fcc0824bf2c33131ce1451546767441c92",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Library/bin/osage.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/patchwork.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/pathplan.dll",
+        "path_type": "hardlink",
+        "sha256": "f0ef4a98ec77b026699d0c604792a37f92b7f40f64b57d70ba3420b3ef8bc2e7",
+        "sha256_in_prefix": "f0ef4a98ec77b026699d0c604792a37f92b7f40f64b57d70ba3420b3ef8bc2e7",
+        "size_in_bytes": 44032
+      },
+      {
+        "_path": "Library/bin/sccmap.exe",
+        "path_type": "hardlink",
+        "sha256": "4cae268261317ebe7d427f601fafa7d142b9bc27f999fc11a20aea851949ffaf",
+        "sha256_in_prefix": "4cae268261317ebe7d427f601fafa7d142b9bc27f999fc11a20aea851949ffaf",
+        "size_in_bytes": 16896
+      },
+      {
+        "_path": "Library/bin/sfdp.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/tred.exe",
+        "path_type": "hardlink",
+        "sha256": "6d7f2123efb5b8e90b06cfde33986c311d338f886815caf3d3c32fbea4e099df",
+        "sha256_in_prefix": "6d7f2123efb5b8e90b06cfde33986c311d338f886815caf3d3c32fbea4e099df",
+        "size_in_bytes": 16384
+      },
+      {
+        "_path": "Library/bin/twopi.exe",
+        "path_type": "hardlink",
+        "sha256": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "sha256_in_prefix": "8f5b8ade7a703e75a87e3362d4bbd4a3d6f2fb1776d3e9f06e60af76a6abf8ce",
+        "size_in_bytes": 11776
+      },
+      {
+        "_path": "Library/bin/unflatten.exe",
+        "path_type": "hardlink",
+        "sha256": "355e125957fb69475c12b759bfd1897e6f3c39e92850dc7181f27003a73e846e",
+        "sha256_in_prefix": "355e125957fb69475c12b759bfd1897e6f3c39e92850dc7181f27003a73e846e",
+        "size_in_bytes": 15872
+      },
+      {
+        "_path": "Library/bin/xdot.dll",
+        "path_type": "hardlink",
+        "sha256": "554ebf7124843f6b90f234a86afcf11d3615503f9834a41119f51bb6936198a7",
+        "sha256_in_prefix": "554ebf7124843f6b90f234a86afcf11d3615503f9834a41119f51bb6936198a7",
+        "size_in_bytes": 23552
+      },
+      {
+        "_path": "Library/include/graphviz/arith.h",
+        "path_type": "hardlink",
+        "sha256": "4bb27baec184e4ae1b14ddeb1dc08f0b1f5ff8f9ec347d5284244b0a5d3d3fe2",
+        "sha256_in_prefix": "4bb27baec184e4ae1b14ddeb1dc08f0b1f5ff8f9ec347d5284244b0a5d3d3fe2",
+        "size_in_bytes": 1919
+      },
+      {
+        "_path": "Library/include/graphviz/cdt.h",
+        "path_type": "hardlink",
+        "sha256": "385b2656cfe75cfe1730a97c1822921d0f286f6303146901fb64a23fe1ddb2b7",
+        "sha256_in_prefix": "385b2656cfe75cfe1730a97c1822921d0f286f6303146901fb64a23fe1ddb2b7",
+        "size_in_bytes": 10067
+      },
+      {
+        "_path": "Library/include/graphviz/cgraph.h",
+        "path_type": "hardlink",
+        "sha256": "64a3cedc3cb5dda6c270eaaf05114e2e23ab9994404b54bc1b65f86e16229561",
+        "sha256_in_prefix": "64a3cedc3cb5dda6c270eaaf05114e2e23ab9994404b54bc1b65f86e16229561",
+        "size_in_bytes": 17540
+      },
+      {
+        "_path": "Library/include/graphviz/color.h",
+        "path_type": "hardlink",
+        "sha256": "16cd693a7fb9d622f3419da3d1cbae6a135afc98f9995871a8d3337f98146bb9",
+        "sha256_in_prefix": "16cd693a7fb9d622f3419da3d1cbae6a135afc98f9995871a8d3337f98146bb9",
+        "size_in_bytes": 1230
+      },
+      {
+        "_path": "Library/include/graphviz/geom.h",
+        "path_type": "hardlink",
+        "sha256": "a438cecbcb8615142af5f9b8b5afb59d9cf66012286b1f7edbc4ba18638f60c5",
+        "sha256_in_prefix": "a438cecbcb8615142af5f9b8b5afb59d9cf66012286b1f7edbc4ba18638f60c5",
+        "size_in_bytes": 2801
+      },
+      {
+        "_path": "Library/include/graphviz/graphviz_version.h",
+        "path_type": "hardlink",
+        "sha256": "dd4133d10a334bef3f6597dcb935d3bddea622e5067fca8142dc5547354647e7",
+        "sha256_in_prefix": "dd4133d10a334bef3f6597dcb935d3bddea622e5067fca8142dc5547354647e7",
+        "size_in_bytes": 305
+      },
+      {
+        "_path": "Library/include/graphviz/gvc.h",
+        "path_type": "hardlink",
+        "sha256": "da98563f6d15d398bfdb6e7c27e580eecbfe82abf3229f626fc85b1ad6dc7afa",
+        "sha256_in_prefix": "da98563f6d15d398bfdb6e7c27e580eecbfe82abf3229f626fc85b1ad6dc7afa",
+        "size_in_bytes": 4246
+      },
+      {
+        "_path": "Library/include/graphviz/gvcext.h",
+        "path_type": "hardlink",
+        "sha256": "057de9827ca10be3ebc5f81c5998339236471dbf5f3a4f5549ccf631e763160d",
+        "sha256_in_prefix": "057de9827ca10be3ebc5f81c5998339236471dbf5f3a4f5549ccf631e763160d",
+        "size_in_bytes": 2162
+      },
+      {
+        "_path": "Library/include/graphviz/gvcjob.h",
+        "path_type": "hardlink",
+        "sha256": "b3f39b44cc34f3ebdc92292304e01862ecab7d1d3be0a0159b42e1709648794d",
+        "sha256_in_prefix": "b3f39b44cc34f3ebdc92292304e01862ecab7d1d3be0a0159b42e1709648794d",
+        "size_in_bytes": 12991
+      },
+      {
+        "_path": "Library/include/graphviz/gvcommon.h",
+        "path_type": "hardlink",
+        "sha256": "4e34f2d0ed347e7259e4b5fe8819e6c7c4bc78ca65fc5537aa856f32c751e7c7",
+        "sha256_in_prefix": "4e34f2d0ed347e7259e4b5fe8819e6c7c4bc78ca65fc5537aa856f32c751e7c7",
+        "size_in_bytes": 1022
+      },
+      {
+        "_path": "Library/include/graphviz/gvconfig.h",
+        "path_type": "hardlink",
+        "sha256": "d5c594d5c0fce67145fcd9a558682642ecfd80e1447242f1dc85184ca7419bf1",
+        "sha256_in_prefix": "d5c594d5c0fce67145fcd9a558682642ecfd80e1447242f1dc85184ca7419bf1",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin.h",
+        "path_type": "hardlink",
+        "sha256": "14ba1b527b6296cd17ef31f5078bf195cb178fd4eefcebbe48de878130d00463",
+        "sha256_in_prefix": "14ba1b527b6296cd17ef31f5078bf195cb178fd4eefcebbe48de878130d00463",
+        "size_in_bytes": 1722
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin_device.h",
+        "path_type": "hardlink",
+        "sha256": "877196723f02a953d5b62dcbfa8d248d8c070eb9a21b231f58cefb788a284050",
+        "sha256_in_prefix": "877196723f02a953d5b62dcbfa8d248d8c070eb9a21b231f58cefb788a284050",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin_layout.h",
+        "path_type": "hardlink",
+        "sha256": "305780274781b037e539180e41ebfdf220ae67fc13ec29885c031b9448852cb8",
+        "sha256_in_prefix": "305780274781b037e539180e41ebfdf220ae67fc13ec29885c031b9448852cb8",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin_loadimage.h",
+        "path_type": "hardlink",
+        "sha256": "3d99edb82e089881dabba5d85f3a9180cbb6c469af851b58e2420bce11d53268",
+        "sha256_in_prefix": "3d99edb82e089881dabba5d85f3a9180cbb6c469af851b58e2420bce11d53268",
+        "size_in_bytes": 1260
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin_render.h",
+        "path_type": "hardlink",
+        "sha256": "93363427a2cbe5cd655c3db2ff1177987ba5c92f02c80754236291337af7ffc9",
+        "sha256_in_prefix": "93363427a2cbe5cd655c3db2ff1177987ba5c92f02c80754236291337af7ffc9",
+        "size_in_bytes": 2097
+      },
+      {
+        "_path": "Library/include/graphviz/gvplugin_textlayout.h",
+        "path_type": "hardlink",
+        "sha256": "63e006c1d424996c20d13bd938b0ed7259c76f1de2837c2e98e2fa8cd78b7f29",
+        "sha256_in_prefix": "63e006c1d424996c20d13bd938b0ed7259c76f1de2837c2e98e2fa8cd78b7f29",
+        "size_in_bytes": 769
+      },
+      {
+        "_path": "Library/include/graphviz/pack.h",
+        "path_type": "hardlink",
+        "sha256": "085964354b2afb42fd79202d80f06009143c977a4399ff1789ba8f503dce3e16",
+        "sha256_in_prefix": "085964354b2afb42fd79202d80f06009143c977a4399ff1789ba8f503dce3e16",
+        "size_in_bytes": 3448
+      },
+      {
+        "_path": "Library/include/graphviz/pathgeom.h",
+        "path_type": "hardlink",
+        "sha256": "5b3a5568f949227cb6c3c91262869ff972b83780033d139f61d2b1fe9fc1280b",
+        "sha256_in_prefix": "5b3a5568f949227cb6c3c91262869ff972b83780033d139f61d2b1fe9fc1280b",
+        "size_in_bytes": 1118
+      },
+      {
+        "_path": "Library/include/graphviz/pathplan.h",
+        "path_type": "hardlink",
+        "sha256": "f1c4208a17e90a4bdcc5640a075f6b37b8b8bf2dcf0f04d638eb9be1cb4eac05",
+        "sha256_in_prefix": "f1c4208a17e90a4bdcc5640a075f6b37b8b8bf2dcf0f04d638eb9be1cb4eac05",
+        "size_in_bytes": 1359
+      },
+      {
+        "_path": "Library/include/graphviz/textspan.h",
+        "path_type": "hardlink",
+        "sha256": "e83201f6ace7f1a32e2e81e10dd9b1584794e84a852e50bdc10972fa595d384c",
+        "sha256_in_prefix": "e83201f6ace7f1a32e2e81e10dd9b1584794e84a852e50bdc10972fa595d384c",
+        "size_in_bytes": 1904
+      },
+      {
+        "_path": "Library/include/graphviz/types.h",
+        "path_type": "hardlink",
+        "sha256": "fb524e843e7103f043db3af59fa7da0493db0138601886853fc0cdb20d9b8af0",
+        "sha256_in_prefix": "fb524e843e7103f043db3af59fa7da0493db0138601886853fc0cdb20d9b8af0",
+        "size_in_bytes": 21122
+      },
+      {
+        "_path": "Library/include/graphviz/usershape.h",
+        "path_type": "hardlink",
+        "sha256": "b8b961ab5aab12a8803c82658178ec9293eefdcabb30dbb6059a98595aecdf05",
+        "sha256_in_prefix": "b8b961ab5aab12a8803c82658178ec9293eefdcabb30dbb6059a98595aecdf05",
+        "size_in_bytes": 2081
+      },
+      {
+        "_path": "Library/include/graphviz/xdot.h",
+        "path_type": "hardlink",
+        "sha256": "ca19b44d95fd1410096f8eada78550873460f747982f80ba46bf500bb51baef0",
+        "sha256_in_prefix": "ca19b44d95fd1410096f8eada78550873460f747982f80ba46bf500bb51baef0",
+        "size_in_bytes": 4325
+      },
+      {
+        "_path": "Library/lib/cdt.lib",
+        "path_type": "hardlink",
+        "sha256": "78113ed65291f676e0c3d34a12bdcadf371595978eba285a6d179e747c4e99e7",
+        "sha256_in_prefix": "78113ed65291f676e0c3d34a12bdcadf371595978eba285a6d179e747c4e99e7",
+        "size_in_bytes": 5674
+      },
+      {
+        "_path": "Library/lib/cgraph.lib",
+        "path_type": "hardlink",
+        "sha256": "9bcc1923f8c2a751942497450a012fd52669277a91c88979c9b54bb0698aa0b5",
+        "sha256_in_prefix": "9bcc1923f8c2a751942497450a012fd52669277a91c88979c9b54bb0698aa0b5",
+        "size_in_bytes": 20492
+      },
+      {
+        "_path": "Library/lib/gvc.lib",
+        "path_type": "hardlink",
+        "sha256": "aad3921a89d121e8725b4e9a5cfd3a1006ca5eace4cebeba78953e1794a23947",
+        "sha256_in_prefix": "aad3921a89d121e8725b4e9a5cfd3a1006ca5eace4cebeba78953e1794a23947",
+        "size_in_bytes": 59988
+      },
+      {
+        "_path": "Library/lib/gvplugin_core.lib",
+        "path_type": "hardlink",
+        "sha256": "2d7b6eb4fe33338d1dd27a9dd48e6565926f96008e33369890c0f0ac0980aed1",
+        "sha256_in_prefix": "2d7b6eb4fe33338d1dd27a9dd48e6565926f96008e33369890c0f0ac0980aed1",
+        "size_in_bytes": 1878
+      },
+      {
+        "_path": "Library/lib/gvplugin_dot_layout.lib",
+        "path_type": "hardlink",
+        "sha256": "ba6d4c7ab3b9bc1cd086ee714ef1acb929dc0dc005adc4632c8b2790eee5afa3",
+        "sha256_in_prefix": "ba6d4c7ab3b9bc1cd086ee714ef1acb929dc0dc005adc4632c8b2790eee5afa3",
+        "size_in_bytes": 1974
+      },
+      {
+        "_path": "Library/lib/gvplugin_gd.lib",
+        "path_type": "hardlink",
+        "sha256": "086514ccf278fc414ea9904d7731c2ebee9d1520e36b52c8cd87747ec2580cda",
+        "sha256_in_prefix": "086514ccf278fc414ea9904d7731c2ebee9d1520e36b52c8cd87747ec2580cda",
+        "size_in_bytes": 1770
+      },
+      {
+        "_path": "Library/lib/gvplugin_gdiplus.lib",
+        "path_type": "hardlink",
+        "sha256": "b65cf1edb5f8daa987c0bb83289bc14478aebf00506947b2baa45365978806c6",
+        "sha256_in_prefix": "b65cf1edb5f8daa987c0bb83289bc14478aebf00506947b2baa45365978806c6",
+        "size_in_bytes": 1930
+      },
+      {
+        "_path": "Library/lib/gvplugin_neato_layout.lib",
+        "path_type": "hardlink",
+        "sha256": "b591fdc266067e31fab4abc660bf81cead679ef40a653ea217ed763cd8fcf49d",
+        "sha256_in_prefix": "b591fdc266067e31fab4abc660bf81cead679ef40a653ea217ed763cd8fcf49d",
+        "size_in_bytes": 2006
+      },
+      {
+        "_path": "Library/lib/gvplugin_pango.lib",
+        "path_type": "hardlink",
+        "sha256": "32c235493c2f6afc5032ae15e8bd72706cdfa3e1a4c5810cdd30ec7a62724a6e",
+        "sha256_in_prefix": "32c235493c2f6afc5032ae15e8bd72706cdfa3e1a4c5810cdd30ec7a62724a6e",
+        "size_in_bytes": 1898
+      },
+      {
+        "_path": "Library/lib/pathplan.lib",
+        "path_type": "hardlink",
+        "sha256": "f4f97f4a55b1646f7885ef7f5421e92864019da5b63c9d9faa1972b5161759fd",
+        "sha256_in_prefix": "f4f97f4a55b1646f7885ef7f5421e92864019da5b63c9d9faa1972b5161759fd",
+        "size_in_bytes": 4912
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libcdt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "4c608c47fb9a1d73336b6afbb0438498f5568abc534d84e6fb96b5526e84bc59",
+        "sha256_in_prefix": "a502a7da61b3cdc967a17502ad5f059002ca6e464b03ba04357673917fec99a8",
+        "size_in_bytes": 442
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libcgraph.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "222014392e274395051618af98620e68dfd50218ce51b5f602215924891fb6e0",
+        "sha256_in_prefix": "789cd47e333ba9085d50e1126331c8a4add9f6bca11f03bfbac3adc2d3cb4aad",
+        "size_in_bytes": 543
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libgvc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "332d2feb98a87dd017839070b75702e4b828a3cf7745c3009f3f21292ebcdc0d",
+        "sha256_in_prefix": "147ba2740b1583e9515e8aaaed4e395b69cb81fdc7e1be8d5f4bb71831f61ecd",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libgvpr.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "48f08fc860044fd9c53b24512e245370f02b8be5546048df48d996a7b9e21526",
+        "sha256_in_prefix": "494ce2c6525fd2e20c7201dbdad0576dfb2c46f4254dc58f87688f58eed5540e",
+        "size_in_bytes": 451
+      },
+      {
+        "_path": "Library/lib/pkgconfig/liblab_gamut.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "d63e35b029dabf63914548bf02fd018a471f6f6c47801d65a47e8954b2c45a5a",
+        "sha256_in_prefix": "b05d9dcc482641b77749d6ba60dbce87a4fda4ec7110891c6a4ffd7ced4949f4",
+        "size_in_bytes": 467
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libpathplan.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "abec7cb51062c2861c695d5e9198230476e97a61708977d01e2e9de280a4d3cd",
+        "sha256_in_prefix": "23446cc801b419315f826b08cce0134609b7bbc48b18e2f665c9a97c05943c0d",
+        "size_in_bytes": 497
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libxdot.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_d1648exzqp/croot/graphviz_1678708267660/_h_env",
+        "sha256": "4e9eeb5380f3027a7d9b335641b7a53e77843cacceedda76b630b35c9fb432d4",
+        "sha256_in_prefix": "576d10c69df84df4632d3e34919b0e1920675971e5b8c0fca581b6ecb29902b8",
+        "size_in_bytes": 459
+      },
+      {
+        "_path": "Library/lib/xdot.lib",
+        "path_type": "hardlink",
+        "sha256": "2eb99f8cfbe1f83096b069620f20a38e0be43c0c16f1323618aa8197b62bd617",
+        "sha256_in_prefix": "2eb99f8cfbe1f83096b069620f20a38e0be43c0c16f1323618aa8197b62bd617",
+        "size_in_bytes": 3236
+      },
+      {
+        "_path": "Library/share/man/man1/acyclic.1.gz",
+        "path_type": "hardlink",
+        "sha256": "8df5484a230a826f2814a88f73f245b38233a8c229092468267b95378eb9701c",
+        "sha256_in_prefix": "8df5484a230a826f2814a88f73f245b38233a8c229092468267b95378eb9701c",
+        "size_in_bytes": 822
+      },
+      {
+        "_path": "Library/share/man/man1/bcomps.1.gz",
+        "path_type": "hardlink",
+        "sha256": "2ba3743d6e60e924cdc25d451afbb849a31851a0356115c275c1c28e55d94033",
+        "sha256_in_prefix": "2ba3743d6e60e924cdc25d451afbb849a31851a0356115c275c1c28e55d94033",
+        "size_in_bytes": 1007
+      },
+      {
+        "_path": "Library/share/man/man1/ccomps.1.gz",
+        "path_type": "hardlink",
+        "sha256": "6b6e5945d0b5fcbda8d8cc13a9a11a51b24f1a095fa25682959875ab63274daa",
+        "sha256_in_prefix": "6b6e5945d0b5fcbda8d8cc13a9a11a51b24f1a095fa25682959875ab63274daa",
+        "size_in_bytes": 1655
+      },
+      {
+        "_path": "Library/share/man/man1/dijkstra.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b98fda7978e2dfa1fd0c1d6e16146507f909a88a9216b1430d8de408aa6ad234",
+        "sha256_in_prefix": "b98fda7978e2dfa1fd0c1d6e16146507f909a88a9216b1430d8de408aa6ad234",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Library/share/man/man1/dot.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5ac6b85435f100d9f0377ab66ab9fdd1866dc390f568bc061f8409f134c3faa5",
+        "sha256_in_prefix": "5ac6b85435f100d9f0377ab66ab9fdd1866dc390f568bc061f8409f134c3faa5",
+        "size_in_bytes": 9882
+      },
+      {
+        "_path": "Library/share/man/man1/gc.1.gz",
+        "path_type": "hardlink",
+        "sha256": "dcc0a96c6dc4c57be103c62254afca7c9d74691263a7de5e5f627b4c6c44745d",
+        "sha256_in_prefix": "dcc0a96c6dc4c57be103c62254afca7c9d74691263a7de5e5f627b4c6c44745d",
+        "size_in_bytes": 764
+      },
+      {
+        "_path": "Library/share/man/man1/gml2gv.1.gz",
+        "path_type": "hardlink",
+        "sha256": "d17b3f52b579aca3221bb6b616ac730a9fafb1e97419ba60b644959b4fb15daa",
+        "sha256_in_prefix": "d17b3f52b579aca3221bb6b616ac730a9fafb1e97419ba60b644959b4fb15daa",
+        "size_in_bytes": 958
+      },
+      {
+        "_path": "Library/share/man/man1/graphml2gv.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5c3cf68b51d1d8bdb6112ce6c447f071746e90711d400ae65a8e3b0e1b7011af",
+        "sha256_in_prefix": "5c3cf68b51d1d8bdb6112ce6c447f071746e90711d400ae65a8e3b0e1b7011af",
+        "size_in_bytes": 823
+      },
+      {
+        "_path": "Library/share/man/man1/gvcolor.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5e31c80961b49912fd0ebabbb4493dc787905e065bccf434c6f4574429ab7090",
+        "sha256_in_prefix": "5e31c80961b49912fd0ebabbb4493dc787905e065bccf434c6f4574429ab7090",
+        "size_in_bytes": 1112
+      },
+      {
+        "_path": "Library/share/man/man1/gvgen.1.gz",
+        "path_type": "hardlink",
+        "sha256": "0de5ebfa927c3143e732b5dacc483ff154544e684f4d37d76373c33b77591def",
+        "sha256_in_prefix": "0de5ebfa927c3143e732b5dacc483ff154544e684f4d37d76373c33b77591def",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "Library/share/man/man1/gvpack.1.gz",
+        "path_type": "hardlink",
+        "sha256": "0d70d3d5f454d3d8ed494c0605138b2b9dce5c3a86bc6b6f87cf8edf80d5f39e",
+        "sha256_in_prefix": "0d70d3d5f454d3d8ed494c0605138b2b9dce5c3a86bc6b6f87cf8edf80d5f39e",
+        "size_in_bytes": 1799
+      },
+      {
+        "_path": "Library/share/man/man1/gvpr.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4a33db0b6ac57373b171eaec3b9a558b3d83c73237d6d84d03130b3c2a7170a6",
+        "sha256_in_prefix": "4a33db0b6ac57373b171eaec3b9a558b3d83c73237d6d84d03130b3c2a7170a6",
+        "size_in_bytes": 12662
+      },
+      {
+        "_path": "Library/share/man/man1/gxl2gv.1.gz",
+        "path_type": "hardlink",
+        "sha256": "288b7d2dd992c4dde71cf00943e6dccd79a730e1c3ab613c50a524c9c0441cc0",
+        "sha256_in_prefix": "288b7d2dd992c4dde71cf00943e6dccd79a730e1c3ab613c50a524c9c0441cc0",
+        "size_in_bytes": 1082
+      },
+      {
+        "_path": "Library/share/man/man1/mm2gv.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5da7df7e74e332f60b354df19e67e01448e8d71b6d9b4d279cccd9f81ae07080",
+        "sha256_in_prefix": "5da7df7e74e332f60b354df19e67e01448e8d71b6d9b4d279cccd9f81ae07080",
+        "size_in_bytes": 1394
+      },
+      {
+        "_path": "Library/share/man/man1/nop.1.gz",
+        "path_type": "hardlink",
+        "sha256": "677f23bd440686d221c9be24c95673c1ad0d73bc832248f3dc1459816067b13a",
+        "sha256_in_prefix": "677f23bd440686d221c9be24c95673c1ad0d73bc832248f3dc1459816067b13a",
+        "size_in_bytes": 469
+      },
+      {
+        "_path": "Library/share/man/man1/osage.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4da160d61da4d7d93a99382f3c80ca226ff622aa622ebfa024b3826e20951137",
+        "sha256_in_prefix": "4da160d61da4d7d93a99382f3c80ca226ff622aa622ebfa024b3826e20951137",
+        "size_in_bytes": 5864
+      },
+      {
+        "_path": "Library/share/man/man1/patchwork.1.gz",
+        "path_type": "hardlink",
+        "sha256": "0c9f2213dac344801918cba72092ce7bc890ee4ecdea141a263376e58e759659",
+        "sha256_in_prefix": "0c9f2213dac344801918cba72092ce7bc890ee4ecdea141a263376e58e759659",
+        "size_in_bytes": 5953
+      },
+      {
+        "_path": "Library/share/man/man1/sccmap.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b45c9def536ee0b64c1daebeb053e5181337ea6ebc29fd8982813cc4e0b5788d",
+        "sha256_in_prefix": "b45c9def536ee0b64c1daebeb053e5181337ea6ebc29fd8982813cc4e0b5788d",
+        "size_in_bytes": 841
+      },
+      {
+        "_path": "Library/share/man/man1/tred.1.gz",
+        "path_type": "hardlink",
+        "sha256": "44ea681f497ec27b1e86a5ad272a8c479350bdc8698ef7c6351c1242edf94591",
+        "sha256_in_prefix": "44ea681f497ec27b1e86a5ad272a8c479350bdc8698ef7c6351c1242edf94591",
+        "size_in_bytes": 744
+      },
+      {
+        "_path": "Library/share/man/man1/unflatten.1.gz",
+        "path_type": "hardlink",
+        "sha256": "f51ff459e605cf52c5c39dd6bb91ca47f71ccb92952718cde48bb0ca934aac88",
+        "sha256_in_prefix": "f51ff459e605cf52c5c39dd6bb91ca47f71ccb92952718cde48bb0ca934aac88",
+        "size_in_bytes": 852
+      },
+      {
+        "_path": "Library/share/man/man3/cdt.3.gz",
+        "path_type": "hardlink",
+        "sha256": "87271ea712a08e53bec178f0b708220bae6a5e77f96eeb06f6af106554219dc1",
+        "sha256_in_prefix": "87271ea712a08e53bec178f0b708220bae6a5e77f96eeb06f6af106554219dc1",
+        "size_in_bytes": 7049
+      },
+      {
+        "_path": "Library/share/man/man3/cgraph.3.gz",
+        "path_type": "hardlink",
+        "sha256": "28f37073ceb46940da5392aef3ba82c6def1f0b155b37a7d8d9fbf83b26ff732",
+        "sha256_in_prefix": "28f37073ceb46940da5392aef3ba82c6def1f0b155b37a7d8d9fbf83b26ff732",
+        "size_in_bytes": 9780
+      },
+      {
+        "_path": "Library/share/man/man3/gvc.3.gz",
+        "path_type": "hardlink",
+        "sha256": "041230d1597e21d85fd11f7d34eb9bf8a53471425d93caf3f78eaca2eba2fb7a",
+        "sha256_in_prefix": "041230d1597e21d85fd11f7d34eb9bf8a53471425d93caf3f78eaca2eba2fb7a",
+        "size_in_bytes": 884
+      },
+      {
+        "_path": "Library/share/man/man3/pack.3.gz",
+        "path_type": "hardlink",
+        "sha256": "22619803f73a58626779d6ba8a25a8bee312e21215268630df62a8ff8dee180a",
+        "sha256_in_prefix": "22619803f73a58626779d6ba8a25a8bee312e21215268630df62a8ff8dee180a",
+        "size_in_bytes": 3419
+      },
+      {
+        "_path": "Library/share/man/man3/pathplan.3.gz",
+        "path_type": "hardlink",
+        "sha256": "bce0b91674b3b70847a7f86b9f8f5408531e96a97b88b6946e23336b528432bf",
+        "sha256_in_prefix": "bce0b91674b3b70847a7f86b9f8f5408531e96a97b88b6946e23336b528432bf",
+        "size_in_bytes": 1935
+      },
+      {
+        "_path": "Library/share/man/man3/xdot.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2fad94d758cbfb295e703445f74451b4e1d9e02ef70055d7d95f5ab71ae8ac25",
+        "sha256_in_prefix": "2fad94d758cbfb295e703445f74451b4e1d9e02ef70055d7d95f5ab71ae8ac25",
+        "size_in_bytes": 3199
+      },
+      {
+        "_path": "Scripts/acyclic.bat",
+        "path_type": "hardlink",
+        "sha256": "390c415efdf22eeb37ebcea0fa2e4e0c253f6fd77166d35f38ade155fa64dc42",
+        "sha256_in_prefix": "390c415efdf22eeb37ebcea0fa2e4e0c253f6fd77166d35f38ade155fa64dc42",
+        "size_in_bytes": 53
+      },
+      {
+        "_path": "Scripts/bcomps.bat",
+        "path_type": "hardlink",
+        "sha256": "1d1d4658a767101f4876ddf9d71ce46d06da3708b8b0d86be79a7a2a6c7d5af7",
+        "sha256_in_prefix": "1d1d4658a767101f4876ddf9d71ce46d06da3708b8b0d86be79a7a2a6c7d5af7",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/ccomps.bat",
+        "path_type": "hardlink",
+        "sha256": "4a41ba5186057f3e76cb8947a396467bb75dfb3b05a765906501d31df24eb559",
+        "sha256_in_prefix": "4a41ba5186057f3e76cb8947a396467bb75dfb3b05a765906501d31df24eb559",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/circo.bat",
+        "path_type": "hardlink",
+        "sha256": "80b26a06f76faa9bdede9e144b63203a7defb8afb3c597152a39a18da553488e",
+        "sha256_in_prefix": "80b26a06f76faa9bdede9e144b63203a7defb8afb3c597152a39a18da553488e",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/dijkstra.bat",
+        "path_type": "hardlink",
+        "sha256": "c3430bb84f6ab057ecc409b6e076aac31d172e2bdc5371658979649760d87828",
+        "sha256_in_prefix": "c3430bb84f6ab057ecc409b6e076aac31d172e2bdc5371658979649760d87828",
+        "size_in_bytes": 54
+      },
+      {
+        "_path": "Scripts/dot.bat",
+        "path_type": "hardlink",
+        "sha256": "239e5e0b1e629fceb61c4e13f97a1b200b93a06276905564337a37393772c5af",
+        "sha256_in_prefix": "239e5e0b1e629fceb61c4e13f97a1b200b93a06276905564337a37393772c5af",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "Scripts/fdp.bat",
+        "path_type": "hardlink",
+        "sha256": "fb0ab752a46f17bef0daddd9d872af912c7b7c8be431ad4bf25ce655f665072f",
+        "sha256_in_prefix": "fb0ab752a46f17bef0daddd9d872af912c7b7c8be431ad4bf25ce655f665072f",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "Scripts/gc.bat",
+        "path_type": "hardlink",
+        "sha256": "cca61b8a6139d5ac53b44adfc85c9d656655aa74969ad69c6293ed6b3a408607",
+        "sha256_in_prefix": "cca61b8a6139d5ac53b44adfc85c9d656655aa74969ad69c6293ed6b3a408607",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "Scripts/gml2gv.bat",
+        "path_type": "hardlink",
+        "sha256": "9d637e6b155cb637f346e1cd96ec1461df2f9fe2215af21f3196df272dc1d42e",
+        "sha256_in_prefix": "9d637e6b155cb637f346e1cd96ec1461df2f9fe2215af21f3196df272dc1d42e",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/graphml2gv.bat",
+        "path_type": "hardlink",
+        "sha256": "801b875960c81737f41c45ca38f4648fbaaa2f4e6fefd94c2fd79b088e6671dd",
+        "sha256_in_prefix": "801b875960c81737f41c45ca38f4648fbaaa2f4e6fefd94c2fd79b088e6671dd",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Scripts/gv2gml.bat",
+        "path_type": "hardlink",
+        "sha256": "33f1270f567d54f23f008d89021efe81cb613ff3f7fafd5c67785aded6c3dd96",
+        "sha256_in_prefix": "33f1270f567d54f23f008d89021efe81cb613ff3f7fafd5c67785aded6c3dd96",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/gvcolor.bat",
+        "path_type": "hardlink",
+        "sha256": "a0b6404f2fe2e56dfdc48a2632340af564724a25bf974b7ee2c372b05629f0a4",
+        "sha256_in_prefix": "a0b6404f2fe2e56dfdc48a2632340af564724a25bf974b7ee2c372b05629f0a4",
+        "size_in_bytes": 53
+      },
+      {
+        "_path": "Scripts/gvgen.bat",
+        "path_type": "hardlink",
+        "sha256": "4aa4e3912ffb2765158cd151a7a3ea30e451e050d84b2c90bc585eecaf07a4c0",
+        "sha256_in_prefix": "4aa4e3912ffb2765158cd151a7a3ea30e451e050d84b2c90bc585eecaf07a4c0",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/gvpack.bat",
+        "path_type": "hardlink",
+        "sha256": "df5126662b200c6b87b92da36b10c8c865dd1bd0d00dba1c3003bdb0ace5cd8b",
+        "sha256_in_prefix": "df5126662b200c6b87b92da36b10c8c865dd1bd0d00dba1c3003bdb0ace5cd8b",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/gvpr.bat",
+        "path_type": "hardlink",
+        "sha256": "9e3474dd4ee78cc774d72deee37836f6e56b518d919cd2f30cee697c245ae128",
+        "sha256_in_prefix": "9e3474dd4ee78cc774d72deee37836f6e56b518d919cd2f30cee697c245ae128",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "Scripts/gxl2gv.bat",
+        "path_type": "hardlink",
+        "sha256": "d2c379d6642ae4b98a56a06b2d283e83215cfe0b0653aceae023618c89fea684",
+        "sha256_in_prefix": "d2c379d6642ae4b98a56a06b2d283e83215cfe0b0653aceae023618c89fea684",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/mm2gv.bat",
+        "path_type": "hardlink",
+        "sha256": "76f9c72f75c09e5311e6cdc64fc94240fcb21b77109fe2abdf51b66bed82656c",
+        "sha256_in_prefix": "76f9c72f75c09e5311e6cdc64fc94240fcb21b77109fe2abdf51b66bed82656c",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/neato.bat",
+        "path_type": "hardlink",
+        "sha256": "6eef0e93e6cb4dc95d8da1a8c62158293979ea1499a507d40962d9093c244ac3",
+        "sha256_in_prefix": "6eef0e93e6cb4dc95d8da1a8c62158293979ea1499a507d40962d9093c244ac3",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/nop.bat",
+        "path_type": "hardlink",
+        "sha256": "b3c013eeaeca5c939116962c0f6916a6ceec2ee10f220122bdb9d373428bbe1b",
+        "sha256_in_prefix": "b3c013eeaeca5c939116962c0f6916a6ceec2ee10f220122bdb9d373428bbe1b",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "Scripts/osage.bat",
+        "path_type": "hardlink",
+        "sha256": "986182e5da52baaac5d11978baa2f406eb58a0fe7734fb6ca5cc4aee2f8b3fd7",
+        "sha256_in_prefix": "986182e5da52baaac5d11978baa2f406eb58a0fe7734fb6ca5cc4aee2f8b3fd7",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/patchwork.bat",
+        "path_type": "hardlink",
+        "sha256": "3f552266c37a9c03fe8bcfeb9181648a16ceb59acf2c101d8bd52c2947c1a467",
+        "sha256_in_prefix": "3f552266c37a9c03fe8bcfeb9181648a16ceb59acf2c101d8bd52c2947c1a467",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "Scripts/sccmap.bat",
+        "path_type": "hardlink",
+        "sha256": "daa9c762ed4948ac139d1b5a0c2d3273891a71660968ee04e446d4a42f3eb0f7",
+        "sha256_in_prefix": "daa9c762ed4948ac139d1b5a0c2d3273891a71660968ee04e446d4a42f3eb0f7",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "Scripts/sfdp.bat",
+        "path_type": "hardlink",
+        "sha256": "749e496c035d3278ec09fc1d8c7412ff7dd62eef09b05409181b41e896ba08d0",
+        "sha256_in_prefix": "749e496c035d3278ec09fc1d8c7412ff7dd62eef09b05409181b41e896ba08d0",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "Scripts/tred.bat",
+        "path_type": "hardlink",
+        "sha256": "2606fa3a7d608be833f495d215a2c2a5a43f7362b5e834fad79346c2f69619d4",
+        "sha256_in_prefix": "2606fa3a7d608be833f495d215a2c2a5a43f7362b5e834fad79346c2f69619d4",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "Scripts/twopi.bat",
+        "path_type": "hardlink",
+        "sha256": "da47b375d1ef1bd8c2680494faa32635037106e3d153fc3edf7f966998f1807b",
+        "sha256_in_prefix": "da47b375d1ef1bd8c2680494faa32635037106e3d153fc3edf7f966998f1807b",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Scripts/unflatten.bat",
+        "path_type": "hardlink",
+        "sha256": "cd0fc79dff8d38c4e9264c35a5d88a207e3674a678baf114210e9ff7c77091e4",
+        "sha256_in_prefix": "cd0fc79dff8d38c4e9264c35a5d88a207e3674a678baf114210e9ff7c77091e4",
+        "size_in_bytes": 55
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6968725ad90a3e781f46a49234cb25227fa0444ebec1f9e07077aca94b9e7dbc",
+  "size": 1031007,
+  "subdir": "win-64",
+  "timestamp": 1678708503922,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/graphviz-2.50.0-h7eca76f_1.conda",
+  "version": "2.50.0"
+}

@@ -6868,7 +6868,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "fc9511f8a58de6dadf0b5355c2ec43642ccb73086440cc41eb02cbee62390d09",
   "size": 3138341,
   "subdir": "win-64",
